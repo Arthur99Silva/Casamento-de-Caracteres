@@ -59,6 +59,7 @@ haskell lleksah
 
 Exemplo de saída:
 
+
 S 1
 
 S 10
@@ -66,5 +67,9 @@ S 10
 N
 
 S 7
+
+-> Gráfico do desempenho:
+
+![geral](https://github.com/Arthur99Silva/Casamento-de-Caracteres/assets/51514914/ef76596d-0070-4459-943c-1adaf9ffbd66)
 
 
