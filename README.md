@@ -46,6 +46,7 @@ A saída deve ser em um arquivo texto e o nome do arquivo de saída é o nome do
 entrada porém com a extensão ”out".
 
 Exemplo de entrada:
+
 4
 
 ava av
@@ -57,6 +58,7 @@ isitfriday ohnoitisnt
 haskell lleksah
 
 Exemplo de saída:
+
 S 1
 
 S 10
