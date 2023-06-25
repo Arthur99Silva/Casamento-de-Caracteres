@@ -44,16 +44,25 @@ Para cada caso de teste, imprima uma linha contendo S se a sequência está pres
 a posiç onde começa, naquela pedra e N se ela não está presente.
 A saída deve ser em um arquivo texto e o nome do arquivo de saída é o nome do arquivo de
 entrada porém com a extensão ”out".
+
 Exemplo de entrada:
 4
+
 ava av
+
 patapon npatapatapatapo
+
 isitfriday ohnoitisnt
+
 haskell lleksah
-Exemplo de saída
+
+Exemplo de saída:
 S 1
+
 S 10
+
 N
+
 S 7
 
 
